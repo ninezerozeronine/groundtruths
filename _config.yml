@@ -23,8 +23,8 @@ description: Left for all to see.
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
   Tags: "tags"
+  About: "about"
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -50,7 +50,7 @@ navbar-col: "#816C61"
 navbar-text-col: "#E9F1F7"
 navbar-children-col: "#816C61"
 page-col: "#E9F1F7"
-link-col: "#2274A6"
+link-col: "#2274A5"
 hover-col: "#30A3E5"
 footer-col: "#816C61"
 footer-text-col: "#E9F1F7"
@@ -146,7 +146,7 @@ title-separator: "-"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: posts/:year-:month-:day-:title/
 paginate: 5
 
 kramdown:

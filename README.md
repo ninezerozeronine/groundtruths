@@ -279,3 +279,31 @@ If you do fork or clone this project to use as a template for your site, I would
 ## Known limitations
 
 - If you have a project page and you want a custom 404 page, you must have a custom domain.  See https://help.github.com/articles/custom-404-pages/.  This means that if you have a regular User Page you can use the 404 page from this theme, but if it's a website for a specific repository, the 404 page will not be used.
+
+## Additions to the base website
+
+### Google custom search
+
+* Sign up for goofe custom search ()
+* Add search page and code snippet
+* Add search.css
+
+### Add link to tags
+
+* Just make an entry in the navbar links
+
+### Add custom URL and SSL
+
+* URL needed a CNAME file
+* Sign up to cloudflare
+* Use this guide: https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/
+* In cloudflare there's an option under crypto section to: "Always use HTTPS". Turning that on will give you the option in the pagerules section to create an "Always use HTTPS" rule.
+
+### Add flickr social link
+
+* Modfication to `_data/SocialNetworks.yaml`
+
+
+
+
+
