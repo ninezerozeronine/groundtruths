@@ -282,13 +282,14 @@ If you do fork or clone this project to use as a template for your site, I would
 
 ## Additions to the base website
 
-### Google custom search
+### Added Google custom search
 
-* Sign up for goofe custom search ()
-* Add search page and code snippet
-* Add search.css
+* Sign up for google custom search (https://cse.google.com). Use the full width option and customise the colours.
+* Add search.md page and code snippet
+* Add search.css from deanattalis current home page
+* Make search-hack layers (search-hack-page and search-hack-base layouts, search-hack-main.css) to "protect" the google search element from having it's tables drawn.
 
-### Add link to tags
+### Add link to tags and search
 
 * Just make an entry in the navbar links
 
@@ -303,6 +304,13 @@ If you do fork or clone this project to use as a template for your site, I would
 
 * Modfication to `_data/SocialNetworks.yaml`
 
+### Move published posts
+
+* Move all the posts to a /posts subfolder when published to make searching them easier (Edited the permalink in the config.yml)
+
+### Add contact form
+
+* Use formspree.io and the information in [Deans post](http://disq.us/p/1qmi76b)
 
 
 

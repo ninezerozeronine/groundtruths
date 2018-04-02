@@ -23,6 +23,7 @@ description: Left for all to see.
 
 # List of links in the navigation bar
 navbar-links:
+  Search: "search"
   Tags: "tags"
   About: "about"
   Contact: "contact"

@@ -5,7 +5,7 @@ title: About
 
 # Why?
 
-I enjoy thinking about the story that ended up with something handwritten being left behind:
+I enjoy thinking about the story that ended up with something being left behind:
 
 * Who wrote it?
 * Why did they write it?
@@ -16,11 +16,15 @@ I enjoy thinking about the story that ended up with something handwritten being 
 
 # Guidelines
 
-I try to follow a few guidelines whilst I'm looking for ground truths:
+I try to follow a few guidelines whilst I'm looking:
 
-* I only record - I try not to interact with anything I see.
-* Any information in what I see that could lead back to a specific individual (Full names, addresses, email addresses, phone numbers, etc) is censored before posting to protect their identity.
+* I try not to disturb/move anything I see.
+* Any information that could lead back to a specific individual (Full names, addresses, email addresses, phone numbers, etc) is censored before posting to protect their identity.
 
 # Who
 
-I'm Andy Palmer - you can find my other projects at [www.ninezerozeronine.com](www.ninezerozeronine.com).
+I'm Andy Palmer - you can find my other projects at [www.ninezerozeronine.com](https://www.ninezerozeronine.com).
+
+# Thanks
+
+[Dean Attali](http://deanattali.com) and his [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll) project made this website possible - thank you!

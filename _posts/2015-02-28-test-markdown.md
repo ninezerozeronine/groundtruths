@@ -23,6 +23,25 @@ Here's a useless table:
 | Two | Three | One |
 
 
+Here's some preformatted text:
+```
+hello there
+
+how   are    you    today?
+
+
+blah..,/.76#$^%$@
+```
+
+
+Here's some Python:
+```python
+import random
+def hello_world(a="hello", b="world"):
+	print(a+b)
+hello_world(a="Hello ")
+```
+
 How about a yummy crepe?
 
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
