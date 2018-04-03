@@ -1,7 +1,10 @@
 ---
 layout: search-hack-page
 title: "Search"
+css: "/css/search.css"
 ---
+
+Search the content of all the Ground Truths here.
 
 <div id="google-custom-search">
   <script>

@@ -12,7 +12,7 @@ The best way to share your thoughts about a specific post is by using the Disqus
 <form action="https://formspree.io/groundtruths0@gmail.com" method="POST" class="form" id="contact-form">
   <div class="row">
     <div class="col-xs-6">
-      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
+      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name" required="required">
     </div>
     <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
@@ -27,3 +27,5 @@ The best way to share your thoughts about a specific post is by using the Disqus
 It would be great to share theories about the things people have left behind! Help with deciphering tricky handwriting is always welcome too :).
 
 I'm afraid I'm not accepting submissions in case you've seen any Ground Truths.
+
+You can find contact links in the footer of every page too.
