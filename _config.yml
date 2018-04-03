@@ -8,31 +8,29 @@
 # baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://groundtruths.net"
+url: "https://www.groundtruths.net"
 baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Ground Truths
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Left for all to see.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Search: "search"
+  Tags: "tags"
+  About: "about"
+  Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/groundtruths_logo_256.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -42,15 +40,22 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+# Beige E7DFC6
+# Blue 2274A5
+# Light blue 30A3E5
+# Light grey E9F1F7
+# Brown 816C61
+# Black 131B23
+
+navbar-col: "#816C61"
+navbar-text-col: "#E9F1F7"
+navbar-children-col: "#816C61"
+page-col: "#E9F1F7"
+link-col: "#2274A5"
+hover-col: "#30A3E5"
+footer-col: "#816C61"
+footer-text-col: "#E9F1F7"
+footer-link-col: "#131B23"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -64,18 +69,21 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Andy Palmer
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
+  instagram: groundtruths0
+  twitter: groundtruths0
+  flickr: groundtruths0
+  email: "groundtruths0@gmail.com"
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  
+#  facebook: your_facebook
+#  github: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -94,12 +102,12 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
-  linkedin: true
+  google: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.groundtruths.net"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -120,7 +128,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "groundtruths"
 
 # Facebook App ID
 # fb_app_id: ""
@@ -139,7 +147,7 @@ title-separator: "-"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: posts/:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
