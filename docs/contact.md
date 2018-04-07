@@ -26,6 +26,6 @@ The best way to share your thoughts about a specific post is by using the Disqus
 
 It would be great to share theories about the things people have left behind! Help with deciphering tricky handwriting is also always welcome :).
 
-I'm afraid I'm not accepting submissions in case you've seen anything you'd like to add here. I'd encourage you to share it yourself on Twitter or Instagram!
+I'm afraid I'm not accepting submissions in case you've seen anything you'd like to add here. I'd encourage you to share it yourself!
 
 You can find contact links in the footer of every page.
