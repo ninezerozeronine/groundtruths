@@ -5,7 +5,7 @@ image: /img/post_previews/2017-11-07_winter-blend_square_512.jpg
 tags: [business]
 ---
 
-The first Ground Truth I recorded! (But not the first I saw - this was the first time I'd seen one and taken a picture)
+The first find I recorded! (But not the first I saw - this was the first time I'd taken a picture)
 
 Looks like a thank you note to a customer who was sampling some teas.
 
