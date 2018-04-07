@@ -14,11 +14,8 @@ I enjoy thinking about the story that ended up with something being left behind:
 
  Sometimes it's simple like a dentist appointment, but sometimes it's more complex or personal like a diary page or a note to a housemate.
 
-# Guidelines
+# Identity
 
-I try to follow a few guidelines whilst I'm looking:
-
-* I try not to disturb/move anything I see.
 * Any information that could lead back to a specific individual (Full names, addresses, email addresses, phone numbers, etc) is censored before posting to protect their identity.
 
 # Who

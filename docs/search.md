@@ -4,7 +4,7 @@ title: "Search"
 css: "/css/search.css"
 ---
 
-Search the content of all the Ground Truths here.
+Search the content of eveything that's been found here.
 
 <div id="google-custom-search">
   <script>
