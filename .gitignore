@@ -1,7 +1,7 @@
 # project
-_site
-.sass-cache
-.vagrant
+docs/_site
+docs/.sass-cache
+docs/.vagrant
 
 # general
 .DS_Store
