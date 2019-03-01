@@ -49,7 +49,7 @@ Here are the modifications I've made on top of his original template (Other than
 * `docker build -t beautiful-jekyll "$PWD"` needs to be run in the directory containing the `Dockerfile` file
 * "$PWD" can be replaced with the absolute path to the current directory
 * As per https://stackoverflow.com/questions/50540721/docker-toolbox-error-response-from-daemon-invalid-mode-root-docker and https://stackoverflow.com/questions/47091139/docker-mount-project-error-response-from-daemon-on-windows-10 windows 7 directories cannot be mounted directly to docker containers. They must first be mounted in the virtual machine that Docker runs in.
-* ![Vitrual Machine](mount_folder_vm.jpg)
+* ![Virtual Machine](images/mount_folder_vm.jpg)
 * In this case, `C:\dev\groundtruths\docs` has been mounted to `/groundtruths` in the VM.
 * The original docker un command is `docker run -d -p 4000:4000 --name beautiful-jekyll -v "$PWD":/srv/jekyll beautiful-jekyll`
 * The -v describes how volumes (on the machine runnign Docker - The VM in this case) are mounted onto the Docker container.
