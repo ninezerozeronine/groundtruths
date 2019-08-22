@@ -53,5 +53,5 @@ Here are the modifications I've made on top of his original template (Other than
 * In this case, `C:\dev\groundtruths\docs` has been mounted to `/groundtruths` in the VM.
 * The original docker un command is `docker run -d -p 4000:4000 --name beautiful-jekyll -v "$PWD":/srv/jekyll beautiful-jekyll`
 * The -v describes how volumes (on the machine runnign Docker - The VM in this case) are mounted onto the Docker container.
-* The command is changed to: `docker run -d -p 4000:4000 --name beautiful-jekyll -v "/groundtruths:/srv/jekyll beautiful-jekyll`
+* The command is changed to: `docker run -d -p 4000:4000 --name beautiful-jekyll -v /groundtruths:/srv/jekyll beautiful-jekyll`
 * Run that and the website is available at the normal http://localhost:4000/
